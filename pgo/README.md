@@ -9,7 +9,7 @@ Each folder has the GCC profile, as `.gcda` files (the files where GCC keeps its
 
 | Folder | Edition |
 |---|---|
-| `pal_es` | PAL Spanish (the default tree `nfsmw/`) |
+| `pal_es` | PAL Spanish (the default tree `nfsmw_pal/`) |
 | `pal_en` | PAL English |
 | `pal_fr` | PAL French |
 | `pal_de` | PAL German |
